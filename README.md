@@ -1,2 +1,1 @@
-# GenAi_Capg_
-Showcasing my Generative AI learning and development journey with real-world projects, including AI chatbots, RAG systems, semantic search, embeddings, vector databases, and LLM-based applications using industry-standard tools and frameworks.
+<img width="4032" height="849" alt="image" src="https://github.com/user-attachments/assets/848dfb76-5087-4ef7-b519-64b48166e1eb" />
