@@ -1,0 +1,22 @@
+label,message
+spam,Congratulations! You have won a free iPhone. Click here to claim now.
+spam,You are selected for a cash reward of $1000. Reply WIN to receive.
+spam,Limited time offer! Get 70 percent discount on all products.
+spam,Dear customer your account has been selected for a special prize.
+spam,Win a brand new car by participating in our lucky draw.
+spam,Urgent! Your loan has been approved. Call now.
+spam,Claim your free vacation ticket before it expires.
+spam,Exclusive deal just for you. Buy one get one free today.
+spam,You have been chosen as a winner. Contact us immediately.
+spam,Free entry into our contest. Hurry up and register.
+
+ham,Hey are we still meeting for lunch today?
+ham,Can you send me the notes from yesterday's class?
+ham,I'll call you once I reach home.
+ham,The project meeting has been moved to 3 PM.
+ham,Please review the attached document and share feedback.
+ham,Happy birthday! Hope you have a wonderful day.
+ham,Let's practice machine learning together this weekend.
+ham,Don't forget to submit your assignment before tonight.
+ham,Thanks for helping me with the presentation.
+ham,The weather is nice today. Shall we go for a walk?
